@@ -118,3 +118,19 @@
 2021-12-23 20:16:10 INFO  BasePage:26 - Ürün adedi 2 yapıldı.
 2021-12-23 20:16:12 INFO  BasePage:22 - Ürün Sepetten Silindi.
 2021-12-23 20:16:13 INFO  BasePage:27 - Sepetinizde ürün bulunmamaktadır.
+2021-12-23 20:24:48 INFO  BasePage:21 - Beymen Test Sonuçları
+2021-12-23 20:24:48 INFO  BasePage:24 - Anasayfa aktif.
+2021-12-23 20:24:49 INFO  BasePage:38 - Hesabım, Favorilerim, Sepetim kontrol edildi.
+2021-12-23 20:24:49 INFO  BasePage:41 - Önizleme kolaylığı açısından çerezler kabul edildi.
+2021-12-23 20:24:52 INFO  BasePage:29 - Arama alanına pantolon yazıldı.
+2021-12-23 20:24:52 INFO  BasePage:32 - Ürün aratıldı.
+2021-12-23 20:24:52 INFO  BasePage:21 - Ürün sayfasına girildi.
+2021-12-23 20:24:59 INFO  BasePage:29 - Dafa fazla ürün gösterildi.
+2021-12-23 20:25:03 INFO  BasePage:35 - Ürün seçildi
+2021-12-23 20:25:05 INFO  BasePage:22 - Beden Seçildi.
+2021-12-23 20:25:07 INFO  BasePage:26 - Sepete eklendi
+2021-12-23 20:25:11 INFO  BasePage:32 - Sepetim Açıldı.
+2021-12-23 20:25:13 INFO  BasePage:22 - Ürün fiyatı ile sepet fiyatı aynı.
+2021-12-23 20:25:13 INFO  BasePage:26 - Ürün adedi 2 yapıldı.
+2021-12-23 20:25:15 INFO  BasePage:22 - Ürün Sepetten Silindi.
+2021-12-23 20:25:17 INFO  BasePage:27 - Sepetinizde ürün bulunmamaktadır.
