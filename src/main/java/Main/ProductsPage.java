@@ -18,21 +18,21 @@ public class ProductsPage extends BasePage {
 
     public void productsPage() throws InterruptedException {   //Ürün Sayfası Test Senaryosu
 
-        logger.info("Ürün sayfasına girildi.");
-        Thread.sleep(1500);
+            logger.info("Ürün sayfasına girildi.");
+            Thread.sleep(1500);
 
-        scrollDown();
-        Thread.sleep(1500);
+            scrollDown();
+            Thread.sleep(1500);
 
-        clickTo(By.id("moreContentButton"));
-        Thread.sleep(1500);
-        logger.info("Dafa fazla ürün gösterildi.");
+            clickTo(By.id("moreContentButton"));
+            Thread.sleep(1500);
+            logger.info("Dafa fazla ürün gösterildi.");
 
-        scrollDownOne();
-        Thread.sleep(1500);
+            scrollDownOne();
+            Thread.sleep(1500);
 
-        randomSelect(By.xpath("//div[@class='m-productCard__photo']//a"));
-        logger.info("Ürün seçildi");
-        Thread.sleep(1500);
+            randomSelect(By.xpath("//div[@class='m-productCard__photo']//a"));
+            logger.info("Ürün seçildi");
+            Thread.sleep(1500);
     }
 }
