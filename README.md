@@ -1,2 +1,2 @@
 # beymenotomasyon
-Testium--  Beymen web sitesi icin test otomasyonu
+Testium --  Beymen web sitesi için yapılan test çalışması.
