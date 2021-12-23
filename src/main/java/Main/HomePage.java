@@ -15,6 +15,8 @@ public class HomePage extends BasePage {
 
         super(driver);
     }
+    /*try catch yöntemini alternatif olarak yaptığım çerezleri kabul ettiğim fonsiyonun çerezler pop up ortaya
+     çıkmadığında programı kesmeden devam etmesi için yaptım*/
 
     public void homePageMethod() throws InterruptedException {  //Anasayfa Test Senaryosu
         try {

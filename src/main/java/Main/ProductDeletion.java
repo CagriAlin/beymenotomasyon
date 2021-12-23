@@ -24,6 +24,8 @@ public class ProductDeletion extends BasePage {
 
             String emptyMyBasket = textFour(By.cssSelector("strong[class='m-empty__messageTitle']"));
             String emptyBasket = "Sepetinizde Ürün Bulunmamaktadır";
+            assertComp(emptyMyBasket,emptyMyBasket);
+
             logger.info("Sepetinizde ürün bulunmamaktadır.");
             Thread.sleep(1500);
 

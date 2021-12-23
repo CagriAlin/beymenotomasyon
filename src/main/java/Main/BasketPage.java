@@ -21,7 +21,7 @@ public class BasketPage extends BasePage {
 
             logger.info("Ürün fiyatı ile sepet fiyatı aynı.");
 
-            Select selectTo = new Select(driver.findElement(By.xpath("//*[@id='quantitySelect0']")));
+            Select selectTo = new Select(driver.findElement(By.xpath("//*[@id='quantitySelect0']"))); //Adet Seçiminde Opsiyon Seçmeye Yarayan Fonsiyon
             selectTo.selectByIndex(1);
             logger.info("Ürün adedi 2 yapıldı.");
             Thread.sleep(2000);
